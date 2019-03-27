@@ -1,2 +1,2 @@
-# karthik.google.github.io
+# karthik.github.io
 test
